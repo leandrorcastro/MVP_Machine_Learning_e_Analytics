@@ -55,4 +55,4 @@ Uma cópia do notebook do Google Colab e do dataset (Default of Credit Card Clie
 
 Link para o dataset utilizado: https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
 
-Link para o notebook no Google Colab: https://colab.research.google.com/drive/1qlXzwmZ_pQY0ccNBps69e_9ACwF_3O__
+Link para o notebook no Google Colab: https://colab.research.google.com/drive/1qlXzwmZ_pQY0ccNBps69e_9ACwF_3O__#
